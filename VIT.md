@@ -1,0 +1,2 @@
+GitLab Journeys guide you through onboarding in an easy and intuitive way. Instead of sending assets and links and instructions through email, we'll assign you journeys to take you through the ins and outs of your GitLab partnership, from viewing important documentation, taking training, and registering for events. Focus on what really matter and complete your journeys in a timely and orderly way.
+
